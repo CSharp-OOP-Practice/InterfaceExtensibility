@@ -1,0 +1,2 @@
+Error: Migration started at 2017/7/31 下午 11:51:30
+Info: Migration finished at 2017/7/31 下午 11:51:30

@@ -1,0 +1,6 @@
+E:\C#\Extensibility\Extensibility\bin\Debug\Extensibility.exe.config
+E:\C#\Extensibility\Extensibility\bin\Debug\Extensibility.exe
+E:\C#\Extensibility\Extensibility\bin\Debug\Extensibility.pdb
+E:\C#\Extensibility\Extensibility\obj\Debug\Extensibility.csprojResolveAssemblyReference.cache
+E:\C#\Extensibility\Extensibility\obj\Debug\Extensibility.exe
+E:\C#\Extensibility\Extensibility\obj\Debug\Extensibility.pdb
